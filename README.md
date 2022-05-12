@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Morgan Hennrick Pelloux</h1>
+<h1 align="center">I'm Morgan Hennrick Pelloux</h1>
 <h3 align="center">A Computer Science student at INSA Toulouse, interested in Software development, DevOps and Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on [a local network Chat System](https://github.com/MonsieurMK/chat_system)
