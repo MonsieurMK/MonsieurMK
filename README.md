@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a local network Chat System](https://github.com/MonsieurMK/chat_system)
 
-- 🌱 I’m currently learning **C++, Android development, Artifical Intelligence (TensorFlow)**
+- 🌱 I’m currently learning **C#, Android development, Artifical Intelligence**
 
 - 📫 How to reach me **morganhpelloux@gmail.com**
 
